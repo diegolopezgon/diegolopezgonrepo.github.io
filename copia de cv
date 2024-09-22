@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV Diego Lopez</title>
+</head>
+<body>
+    <h1>CV Diego Lopez</h1>
+    <h3>diego.lopezgon.25@gmail.com</h3>
+    <h3>+56949742481</h3>
+<img src="./assets/imagenes/hombre con terno.webp" alt="hombre con terno">
+<br>
+<h2>Extracto</h2>
+<p> style="color: red">Profesional con experiencia en el área de ventas Retail y Call Center, atención al cliente. <br>
+    Enfocado al logro de metas a cargo de equipos de alto rendimiento, manejo de diversas
+    herramientas para servicio al consumidor y gestión de cartera de clientes. <br> Gestión de redes
+    sociales para entidad gubernamental, administrando publicaciones y métricas. <br>
+    Consultor de licenciamiento de software, consolidación de bases de datos y coordinación
+    de auditorías. Con orientación al trabajo en equipo altamente analítico y resolutivo.
+    </p>
+<h2>Antecedentes Laborales</h2>
+<hr>
+    <ul>
+        <li>Enero 2024 Piwén, Vitacura
+        Mayo. 2023 Venta de Frutos Secos
+            Vendedor Comisionista,
+            Gestión de clientes, ventas directas, facturación, captación de nuevos
+            clientes</li>
+        <li>Oct. 2022 Sustentablemente, Las Condes.
+            Dic. 2020 Ingeniería Medioambiental
+            Fiscalizador,
+            Supervisar el correcto desempeño de aspirado de particulado grueso en la
+            región Metropolitana para el Gobierno Regional.</li>
+        <li>Dic. 2019
+            Oct. 2017
+            Subsecretaria de Relaciones Económicas Internacionales, Santiago.
+            Asistente de Viajes.
+            Gestionar y acompasar en los viajes de comisión de servicio de los diversos
+            funcionarios de la subsecretaria.</li>
+        <li>Dic. 2012
+            Julio 2012
+            Brecha Digital Consultores, Santiago.
+            Agencia de Comunicaciones.
+            Community Manager.
+            Administración y gestión de redes sociales (Youtube, Facebook, Twitter) y
+            reportaría.
+            </li>
+    </ul>
+    <h2>Antecedentes Academicos</h2>
+    <hr>
+    <p>2024 Diplomado Marketing Digital y Gestión Estratégica</p>
+    <ul>
+        <li>Growth Hacking</li>
+        <li>Análisis Web</li>
+    </ul>
+    <p>2019 Preparador Físico, Instituto Profesional de Chile</p>
+    <ul>
+        <li>Certificacion Spin Bike</li>
+        <li>Masoterapia Deportiva</li>
+    </ul>
+    <p>2005 Instituto Tabancura 1° a 4° medio
+        Sede Londres, Santiago.</p>
+<h2>Competencias</h2>
+<hr>
+<ul>
+    <li>Poseo alta capacidad de aprendizaje, trabajo en equipo y
+        pro actividad.</li>
+    <li>Analítica y resolución de problemas</li>
+</ul>
+<h2>Herramientas</h2>
+<hr>
+<ol>
+    <li>Microsoft Office Intermedio.</li>
+    <li> SAP Nivel básico</li>
+    <li>Facebook Business</li>
+    <li>Tweetreach</li>
+    <li>Google Analytics</li>
+    <li>Google Adwords</li>
+</ol>
+<h2>Intereses</h2>
+<hr>
+<ul>
+    <li>Mis intereses en el crecimiento del área profesional se enfocan al Marketing
+        Digital, Análisis Web y Growth Hacking</li>
+    <li>Entre mis intereses personales destacan las actividades al aire libre y deportes
+        outdoor.</li>
+</ul>
+
+    <h2>Antecedentes Personales</h2>
+    <hr>
+    <ol>
+        <li>Direccion: Suecia 3328 Depto 602</li>
+        <li>Comuna: Ñuñoa</li>
+        <li>Estado Civil: Soltero</li>
+        <li>RUT: 15.844.762-2</li>
+        <li>F. Nacimiento : 25-01-1985</li>
+        <li>Nacionalidad: Chilena</li>
+    </ol>
+    <h2>Referencias</h2>
+    <hr>
+    <ul>
+        <li>Piwen : Oscar Barillas 943839927 (Jefe de local)</li>
+        <li>Sustentablemente : Paulina Jara 979779093 (CEO de sustentablemente)</li>
+        <li>Subsecretaria : Ximena Sandoval 992271037 (CEO departamento de compras)</li>
+    </ul><hr>
+
+    <footer><p>Disponibilidad Inmediata</p></footer>
+    <a href="./portafolio.html">ir a mi tabla...</a>
+</body>
+</html>
